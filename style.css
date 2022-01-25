@@ -1,0 +1,48 @@
+body{background-color: black;
+}
+
+.post{background-color: white;
+    width: 528px;height: 695px;
+    margin: 60px auto;
+}
+
+.header #html5{
+    width: 27px;
+    padding-left: 15px;
+    padding-top: 17px;
+}
+
+.header p {
+    display: inline-block;
+}
+
+.header #threePoints{
+    width: 32px;
+    float: right;
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+.post-img img{
+    width: 528px;
+    height: 380px;
+}
+
+.savePost{
+    float: right;
+    padding-right: 15px;
+    padding-top: 15px;
+}
+
+.heart{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.post-footer-text p{
+    padding-top: 11px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 14px;
+}
